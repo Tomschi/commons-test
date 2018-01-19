@@ -12,4 +12,12 @@
     <artifactId>commons-data-test</artifactId>
     <packaging>jar</packaging>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.github.tomschi</groupId>
+            <artifactId>commons-data</artifactId>
+            <version>0.1.1</version>
+        </dependency>
+    </dependencies>
+
 </project>
